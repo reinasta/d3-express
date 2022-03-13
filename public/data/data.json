@@ -1,0 +1,32 @@
+{
+    "0": {
+        "name": "First event",
+        "start": "02/03/2022",
+        "end": "04/03/2022",
+        "text": "This is a wonderful event."
+    },
+    "1": {
+        "name": "Second event",
+        "start": "11/06/2022",
+        "end": "12/06/2022",
+        "text": "Absolutely awesome!"
+    },
+    "2": {
+        "name": "Third event",
+        "start": "14/07/2022",
+        "end": "17/07/2022",
+        "text": "I didn't like it, sorry."
+    },
+    "3": {
+        "name": "Fourth event",
+        "start": "23/10/2022",
+        "end": "27/10/2022",
+        "text": "Can't wait for the holiday."
+    },
+    "4": {
+        "name": "Fifth event",
+        "start": "13/12/2022",
+        "end": "20/12/2022",
+        "text": "Xmas here I come!"
+    }
+}
